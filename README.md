@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL](https://your-solution-url.com)
-- Live Site URL: [Live site URL](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://github.com/bobo-m/product-preview--Frontend-Mentor)
+- Live Site URL: [Live site URL](https://bobo-m.github.io/product-preview--Frontend-Mentor/)
 
 ## My process
 
